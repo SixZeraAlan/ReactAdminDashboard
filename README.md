@@ -1,6 +1,6 @@
 # Build and Deploy a React Admin Dashboard App With Theming, Tables, Charts, Calendar, Kanban and More
 
-![Shoppy]()
+![Shoppy](src/data/dashboardpc.png)
 
 link: 
 ## Introduction
